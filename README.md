@@ -20,11 +20,6 @@ I am a passionate developer focused on building scalable web applications, optim
 
 ---
 
-### 📊 GitHub Activity
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauravdev148&show_icons=true&theme=tokyonight)
-
----
-
 ### 🤝 Let's Connect
 📫 **Contact:** gauravdev148@gmail.com
 
